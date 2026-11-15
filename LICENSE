@@ -1,0 +1,53 @@
+THE ROBI LICENSE (v1.0, "not for sale, but available for hire")
+
+Copyright (c) 2026 Hevele Imre Róbert (robinator121)
+
+0. DEFINITIONS
+
+   "Robi"      means the human. Single core, runs on coffee,
+               known to boot at odd hours (night shifts).
+   "Software"  means the code in the repositories of this account.
+               Each repository has its own real license file.
+               Read that one. This one is about Robi.
+   "You"       means you, the person reading a license file
+               for fun. respect.
+
+1. ROBI IS NOT FOR SALE
+
+   Robi cannot be bought, sold, forked, cloned, rebased,
+   squashed, or force-pushed. Attempts to `git clone robi`
+   will return: fatal: repository 'robi' is a person.
+
+2. ROBI CAN BE HIRED
+
+   Permission is hereby granted, after a friendly conversation,
+   to employ Robi for:
+
+     - low-level and systems work (AArch64, bare metal, C, C++)
+     - asking "but what actually happens in the hardware?"
+     - automating the boring parts of a job until they disappear
+     - reading the manual (yes, the whole thing)
+
+   subject to the following conditions:
+
+     a) the work is interesting
+     b) remote is the default, the office is a rare event
+     c) Robi is allowed to understand *why*, not only *how*
+     d) nobody says "it works, don't touch it" about code that
+        clearly does not work
+
+3. WARRANTY
+
+   Robi is provided "AS IS", without warranty of any kind,
+   but with a strong tendency to fix things nobody asked him to fix.
+   Side effects may include unsolicited assembly, physics tangents,
+   and README files with jokes in them.
+
+4. TERMINATION
+
+   This license terminates automatically if You try to pay Robi
+   in "exposure". Exposure does not compile.
+
+5. CONTACT
+
+   Interested in a hire()? Open a conversation, not a pull request.
